@@ -23,31 +23,34 @@ texto analizado [Oscar Wilde - El Retrato de Dorian Gray](https://www.textos.inf
 # 3. Modelo de lenguaje con tokenización de caracteres y palabras 🔧⚙️ 
 (https://github.com/zeushg/Desafios_NLP/blob/main/Desafio_3/Desafio3_modelo_lenguaje_char.ipynb y https://github.com/zeushg/Desafios_NLP/blob/main/Desafio_3/Desafio3_modelo_lenguaje_word.ipynb)
 
-Se define un modelo de lenguaje utilizando tokenización por palabras y caractéres 
-Se busca durante el entrenamiento baje el indicador dee perplejidad
-se explora el comportamiento de las arquitecturas y 3 arquitecturas: SimpleRNN, LSM y GRU
+- Se define un modelo de lenguaje utilizando tokenización por palabras y caractéres. 
+- Se busca durante el entrenamiento baje el indicador dee perplejidad.
+- se explora el comportamiento de las arquitecturas y 3 arquitecturas: SimpleRNN, LSM y GRU.
 
-Graficos obtenidos Modelo Char: (https://github.com/zeushg/Desafios_NLP/blob/main/Desafio_3/TP3_secuencias_Modelo_lenguaje_CHAR.pdf)
-Graficos obtenidos Modelo Char: (https://github.com/zeushg/Desafios_NLP/blob/main/Desafio_3/TP3_secuencias_Modelo_lenguaje_WORD.pdf)
+Graficos obtenidos Modelo Char: 
+(https://github.com/zeushg/Desafios_NLP/blob/main/Desafio_3/TP3_secuencias_Modelo_lenguaje_CHAR.pdf)
+Graficos obtenidos Modelo Char: 
+(https://github.com/zeushg/Desafios_NLP/blob/main/Desafio_3/TP3_secuencias_Modelo_lenguaje_WORD.pdf)
 
 Texto analizado [Oscar Wilde - El Retrato de Dorian Gray - Modelo Char](https://www.textos.info/oscar-wilde/el-retrato-de-dorian-gray/)
+
 Texto analizado [Franz Kafka La Metamorfosis - Modelo Word](https://www.textos.info/franz-kafka/la-metamorfosis/)
 
 # 4. Chatbot Q&A con LSTM 🔧⚙️
 (https://github.com/zeushg/Desafios_NLP/blob/main/Desafio_4/_Desafio_4_bot_qa.ipynb)
 
-Se implementa un chatbot de preguntas y respuestas usando embeddings de palabras para este caso Fasttext  y redes LSTM se utiliza informacion del challenge ConvAI2
-Se hace acondicionamiento de datos para limpiarlos, se tokenizan, se crea el dataset separando entrenamiento y validacion, se hace el entrenamiento usando LSTM.
+- Se implementa un chatbot de preguntas y respuestas usando embeddings de palabras para este caso Fasttext  y redes LSTM se utiliza informacion del challenge ConvAI2.
+- Se hace acondicionamiento de datos para limpiarlos, se tokenizan, se crea el dataset separando entrenamiento y validacion, se hace el entrenamiento usando LSTM.
 
 
 # 5. Bert Sentiment Analysis 🔧⚙️ 
 (https://github.com/zeushg/Desafios_NLP/blob/main/Desafio_5/Desafio5_7d_bert_sentiment_analysis_multicategorial.ipynb)
 
-Se realiza un modelo de clasificación de Sentiment Analysis utilizando el modelo BERT como encoder, los datos provienen de las críticas de Google Apps
-Modelo entrenado con 3 clases: Positivo, Neutral y Negativo esto fue obtenido a partir de 5 clases iniciales.
-Se plantean 3 modelos con distintas clases y capas densas.
+- Se realiza un modelo de clasificación de Sentiment Analysis utilizando el modelo BERT como encoder, los datos provienen de las críticas de Google Apps.
+- Modelo entrenado con 3 clases: Positivo, Neutral y Negativo esto fue obtenido a partir de 5 clases iniciales.
+- Se plantean 3 modelos con distintas clases y capas densas.
 
 
 # Author ✒️
-:octocat: Zeus Hernández 
+Zeus Hernández 
 Contacto zeushg@gmail.com 
