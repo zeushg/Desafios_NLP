@@ -27,10 +27,8 @@ texto analizado [Oscar Wilde - El Retrato de Dorian Gray](https://www.textos.inf
 - Se busca durante el entrenamiento baje el indicador dee perplejidad.
 - se explora el comportamiento de las arquitecturas y 3 arquitecturas: SimpleRNN, LSM y GRU.
 
-Graficos obtenidos Modelo Char: 
-(https://github.com/zeushg/Desafios_NLP/blob/main/Desafio_3/TP3_secuencias_Modelo_lenguaje_CHAR.pdf)
-Graficos obtenidos Modelo Char: 
-(https://github.com/zeushg/Desafios_NLP/blob/main/Desafio_3/TP3_secuencias_Modelo_lenguaje_WORD.pdf)
+- Graficos obtenidos Modelo Char: (https://github.com/zeushg/Desafios_NLP/blob/main/Desafio_3/TP3_secuencias_Modelo_lenguaje_CHAR.pdf)
+- Graficos obtenidos Modelo Word: (https://github.com/zeushg/Desafios_NLP/blob/main/Desafio_3/TP3_secuencias_Modelo_lenguaje_WORD.pdf)
 
 Texto analizado [Oscar Wilde - El Retrato de Dorian Gray - Modelo Char](https://www.textos.info/oscar-wilde/el-retrato-de-dorian-gray/)
 
